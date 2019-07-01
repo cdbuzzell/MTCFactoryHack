@@ -1,7 +1,7 @@
 # MTC Open Hack
 
 ## Microsoft Graph
-TODO: Jeff's links
+
 
 Graph Explorer: https://developer.microsoft.com/en-us/graph/graph-explorer
 
