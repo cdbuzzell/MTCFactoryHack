@@ -33,3 +33,6 @@ https://aka.ms/cbuzz/github
 ### O365 Content Analysis
 - Yammer sentiment analysis: https://aka.ms/YammerSentiment
 - Stream analytics: https://aka.ms/StreamAnalytics
+
+### Power Platform Governance
+ - Center of Excellence Starter Kit - https://aka.ms/coestarterkit
