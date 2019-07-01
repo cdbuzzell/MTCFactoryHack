@@ -5,7 +5,7 @@
 
 Graph Explorer: https://developer.microsoft.com/en-us/graph/graph-explorer
 
-https://aka.ms/graphhack
+Sample and Authorization Content: https://aka.ms/graphhack
 
 ## PowerApps/Flow/Power BI
 
