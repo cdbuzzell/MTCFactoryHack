@@ -13,20 +13,17 @@ TODO: Bart's links
   
   Detailed Microsoft Documentation library:  https://docs.microsoft.com/en-us/power-bi/
 
-## Teams Reporting/Governance
+## Advanced M365 admin task automation + auditing through Power BI, Graph APIs, PowerShell and more
+### Teams Reporting/Governance
 https://aka.ms/DougCode
-
-repos:
 - Flow-TeamsInfoReporting
 - Flow-GroupDocumenter
 
-## Process Automation
+### Process Automation
 https://aka.ms/cbuzz/github
-
-repos:
 - TeamsRequests
 - TeamsPriorityIncidentResponse
 
-## O365 Content Analysis
+### O365 Content Analysis
 - Yammer sentiment analysis: https://aka.ms/YammerSentiment
 - Stream analytics: https://aka.ms/StreamAnalytics
