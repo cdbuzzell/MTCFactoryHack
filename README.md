@@ -20,19 +20,26 @@ App in a Day presentation: https://aka.ms/aiadpresentation
   Detailed Microsoft Documentation library:  https://docs.microsoft.com/en-us/power-bi/
 
 ## Advanced M365 admin task automation + auditing through Power BI, Graph APIs, PowerShell and more
+![M365 Overview](Images/M365-overview.png)
+![M365 Diagram](Images/M365-diagram.png)
 ### Teams Reporting/Governance
 https://aka.ms/DougCode
-- Flow-TeamsInfoReporting
-- Flow-GroupDocumenter
+![M365 Flow](Images/M365-flow1.png)
+#### repo: Flow-TeamsInfoReporting
+#### repo: Flow-GroupDocumenter
 
 ### Process Automation
 https://aka.ms/cbuzz/github
-- TeamsRequests
-- TeamsPriorityIncidentResponse
+#### repo: TeamsRequests
+![M365 Flow](Images/M365-flow2.png)
+#### repo: TeamsPriorityIncidentResponse
+![M365 Flow](Images/M365-flow3.png)
 
 ### O365 Content Analysis
-- Yammer sentiment analysis: https://aka.ms/YammerSentiment
-- Stream analytics: https://aka.ms/StreamAnalytics
+#### Yammer sentiment analysis: https://aka.ms/YammerSentiment
+![M365 Flow](Images/M365-flow4.png)
+#### Stream analytics: https://aka.ms/StreamAnalytics
+![M365 Flow](Images/M365-flow5.png)
 
 ### Power Platform Governance
  - Center of Excellence Starter Kit - https://aka.ms/coestarterkit
