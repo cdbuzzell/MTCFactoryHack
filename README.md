@@ -6,9 +6,11 @@ https://aka.ms/graphhack
 
 TODO: Bart's links
 
-TODO: Val's links
+## Power BI links
+  Dashboard in a Day course/lab: https://assetsprod.microsoft.com/mpn/en-us/diad.zip
+  Summary Microsoft Power BI documentation: https://powerbi.microsoft.com/en-us/
+  Detailed Microsoft Documentation library:  https://docs.microsoft.com/en-us/power-bi/
 
-TODO: Corey's links
 ## Teams Reporting/Governance
 https://aka.ms/DougCode
 
