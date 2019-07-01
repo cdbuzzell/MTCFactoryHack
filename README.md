@@ -1,6 +1,7 @@
 # MTC Open Hack
 
 TODO: Jeff's links
+
 https://aka.ms/graphhack
 
 TODO: Bart's links
