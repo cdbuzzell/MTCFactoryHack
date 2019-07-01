@@ -2,6 +2,9 @@
 
 ## Microsoft Graph
 
+Home: https://developer.microsoft.com/en-us/graph
+
+Getting Started: https://developer.microsoft.com/en-us/graph/get-started
 
 Graph Explorer: https://developer.microsoft.com/en-us/graph/graph-explorer
 
