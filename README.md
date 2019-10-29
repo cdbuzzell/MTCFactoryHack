@@ -18,7 +18,12 @@ Sample and Authorization Content: https://aka.ms/graphhack
 ## PowerApps/Flow/Power BI
 
 ### PowerApps and Flow
+
 App in a Day presentation: https://aka.ms/aiadpresentation
+
+Hands-on-lab – https://aka.ms/appinaday
+
+PowerApps Resources: https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/ 
 
 ### Power BI
   Dashboard in a Day course/lab: https://assetsprod.microsoft.com/mpn/en-us/diad.zip 
