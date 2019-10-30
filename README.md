@@ -25,6 +25,9 @@ Hands-on-lab – https://aka.ms/appinaday
 
 PowerApps Resources: https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources/ 
 
+### Power Platform Governance
+ - Center of Excellence Starter Kit - https://aka.ms/coestarterkit
+
 ### Power BI
   Dashboard in a Day course/lab: https://assetsprod.microsoft.com/mpn/en-us/diad.zip 
   
@@ -53,6 +56,3 @@ https://aka.ms/cbuzz/github
 ![M365 Flow](Images/M365-flow4.png)
 #### Stream analytics: https://aka.ms/StreamAnalytics
 ![M365 Flow](Images/M365-flow5.png)
-
-### Power Platform Governance
- - Center of Excellence Starter Kit - https://aka.ms/coestarterkit
