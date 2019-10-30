@@ -2,7 +2,7 @@
 An MTC Factory Hackathon is a semi-structured event where you get hands-on with technology with some assistance from the MTC Architecture staff to help you while you explore and learn. This Factory Hackathon will start on Day 1 with a basic overview of the technology for each track and some semi-structured exercises.  Following that we will let you explore, build and test on areas of interest to you, your peers or your company for the afternoon and next day.  Bring your creativity and learning mindset as well your sample issues, your own PC, and admin or needed access to an O365 demo or scoped environment.  
  
 Track One: Developing Apps/Bots for Microsoft Teams  
-Track Two: PowerApps/Flow/Power BI 
+Track Two: PowerApps/Flow/Power BI  
 Track Three: Advanced M365 admin task automation + auditing through Power BI, Graph APIs, PowerShell and more
 
 ## Microsoft Graph
