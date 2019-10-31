@@ -21,9 +21,9 @@ Microsoft Bot Framework: https://dev.botframework.com/
 
 Getting started: https://dev.botframework.com/#quick-starts
 
-Examples: github.com/Microsoft/BotBuilder-Samples
+Examples: https://github.com/Microsoft/BotBuilder-Samples
 
-Solutions: github.com/Microsoft/botframework-solutions
+Solutions: http://github.com/Microsoft/botframework-solutions
 
 Create a bot for Microsoft Teams: https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/bots/bots-create
 
