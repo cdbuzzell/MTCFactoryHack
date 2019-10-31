@@ -47,14 +47,14 @@ PowerApps Resources: https://powerapps.microsoft.com/en-us/blog/microsoft-powera
 ### Teams Reporting/Governance
 https://aka.ms/DougCode
 ![M365 Flow](Images/M365-flow1.png)
-#### repo: Flow-TeamsInfoReporting
-#### repo: Flow-GroupDocumenter
+#### Flow-TeamsInfoReporting: https://github.com/dougsplinter/Flow-TeamsInfoReporting
+#### Flow-GroupDocumenter: https://github.com/dougsplinter/Flow-GroupDocumenter
 
 ### Process Automation
 https://aka.ms/cbuzz/github
-#### repo: TeamsRequests
+#### Teams Requests: https://github.com/cdbuzzell/TeamsRequests
 ![M365 Flow](Images/M365-flow2.png)
-#### repo: TeamsPriorityIncidentResponse
+#### Teams Priority Incident Response: https://github.com/cdbuzzell/TeamsPriorityIncidentResponse
 ![M365 Flow](Images/M365-flow3.png)
 
 ### O365 Content Analysis
