@@ -41,6 +41,8 @@ PowerApps Resources: https://powerapps.microsoft.com/en-us/blog/microsoft-powera
 
 ### Power Platform Governance
  - Center of Excellence Starter Kit - https://aka.ms/coestarterkit
+ - Governance and Deployment Whitepaper - https://powerapps.microsoft.com/en-us/blog/powerapps-enterprise-deployment-whitepaper/
+
 
 ### Power BI
   Dashboard in a Day course/lab: https://assetsprod.microsoft.com/mpn/en-us/diad.zip 
