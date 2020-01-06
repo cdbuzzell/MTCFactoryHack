@@ -62,7 +62,7 @@ https://aka.ms/DougCode
 
 ### Process Automation
 https://aka.ms/cbuzz/github
-#### Teams Requests: https://github.com/cdbuzzell/TeamsRequests
+#### Teams Requests: https://aka.ms/TeamsRequests
 ![M365 Flow](Images/M365-flow2.png)
 #### Teams Priority Incident Response: https://github.com/cdbuzzell/TeamsPriorityIncidentResponse
 ![M365 Flow](Images/M365-flow3.png)
